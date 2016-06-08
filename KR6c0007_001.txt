@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:43:39.672538
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:02
 #+TITLE: 大品經遊意
 #+PROPERTY: CBETA_ID T33n1696
 #+PROPERTY: ID KR6c0007
