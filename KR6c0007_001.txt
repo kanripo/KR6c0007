@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:43:39.672538
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:02
 #+TITLE: 大品經遊意
 #+PROPERTY: CBETA_ID T33n1696
 #+PROPERTY: ID KR6c0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1696
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0007_T_000-0063a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0007_T_001-0063a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1696[cf.No.223]¶
-
- 大品遊意¶
+No. 1696 [cf. No. 223]¶
+大品遊意¶
 ¶
 
 斯道幽微。深遠難測。無知無照。無名無相。¶
